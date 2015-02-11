@@ -1,0 +1,918 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cyclone Slider 2 v2.8.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-19 17:58+0800\n"
+"PO-Revision-Date: 2014-12-19 17:58+0800\n"
+"Last-Translator: Nico Amarilla <kosinix@codefleet.net>\n"
+"Language-Team: Digital03 <info@digital03.net>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+# @ cycloneslider
+#: ../cyclone-slider.php:91
+msgid "Cyclone Slider Settings"
+msgstr "Ajustes de Cyclone Slider"
+
+# @ cycloneslider
+#: ../cyclone-slider.php:92
+msgid "Settings"
+msgstr "Ajustes"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:80
+msgid "Cyclone Slider"
+msgstr "Cyclone Slider"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:81
+msgid "Slideshow"
+msgstr "Slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:82
+msgid "Add Slideshow"
+msgstr "Añadir slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:83
+msgid "Add New Slideshow"
+msgstr "Añadir nuevo slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:84
+msgid "Edit Slideshow"
+msgstr "Editar slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:85
+msgid "New Slideshow"
+msgstr "Nuevo slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:86
+msgid "View Slideshow"
+msgstr "Ver slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:87
+msgid "Search Slideshows"
+msgstr "Buscar slideshows"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:88
+msgid "No slideshows found"
+msgstr "No se han encontrado slideshows"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:89
+msgid "No slideshows found in Trash"
+msgstr "No hay slideshows en la papelera"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:133 ../src/CycloneSlider/Admin.php:136
+#: ../src/CycloneSlider/Admin.php:137 ../src/CycloneSlider/Admin.php:140
+#: ../src/CycloneSlider/Admin.php:141 ../src/CycloneSlider/Admin.php:142
+msgid "Slideshow updated."
+msgstr "Slideshow actualizado."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:134
+msgid "Custom field updated."
+msgstr "Campos personalizados actualizados"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:135
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:138
+msgid "Slideshow published."
+msgstr "Slideshow publicado."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:139
+msgid "Slideshow saved."
+msgstr "Slideshow guardado."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:143
+#, php-format
+msgid ""
+"Templates CSS could not be saved. Make sure %stemplates.css is writable."
+msgstr ""
+"La plantilla CSS no ha podido ser guardada. Asegurate que %stemplates.css "
+"tiene permiso de escritura."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:144
+#, php-format
+msgid "Templates JS could not be saved. Make sure %stemplates.js is writable."
+msgstr ""
+"La plantilla JS no ha podido ser guardada. Asegurate que %stemplates.js "
+"tiene permisos de escritura."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:178
+msgid "Slides"
+msgstr "Diapositivas"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:187
+msgid "Slider Preview"
+msgstr "Vista previa"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:196
+msgid "Get Slider Codes"
+msgstr "Ver el código del slider"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:205
+msgid "Basic Settings"
+msgstr "Ajustes básicos"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:214
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:223
+msgid "Templates"
+msgstr "Plantillas"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:232 ../src/CycloneSlider/Admin.php:492
+msgid "Slideshow ID"
+msgstr "ID del slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:258
+msgid "Slide"
+msgstr "Diapositiva"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:381
+msgid "Core"
+msgstr "Núcleo"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:382
+#, fuzzy, php-format
+msgid "Located inside the plugin directory:<br> <strong>%s</strong>"
+msgstr "Localizado dentro de la carpeta wp-content:<br> <strong>%s</strong>"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:386
+#, php-format
+msgid "Located inside your currently active theme:<br> <strong>%s</strong>"
+msgstr "Localizado dentro de tu tema actual:<br> <strong>%s</strong>"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:387
+#, php-format
+msgid ""
+"Your template is in danger of being overwritten when you upgrade your theme. "
+"Please move it inside %s."
+msgstr ""
+"Tu plantilla está en peligro de ser sobre-escrita cuando actualices tu tema. "
+"Por favor, muevela dentro de %s."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:391
+#, php-format
+msgid "Located inside wp-content directory:<br> <strong>%s</strong>"
+msgstr "Localizado dentro de la carpeta wp-content:<br> <strong>%s</strong>"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:428
+msgid "Slide *"
+msgstr "Diapositiva *"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:489
+msgid "Slideshow Name"
+msgstr "Nombre del slideshow"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:490
+msgid "Template"
+msgstr "Plantilla"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:491
+msgid "No. of Slides"
+msgstr "No. de diapositivas"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Admin.php:493
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/AssetLoader.php:53
+msgid "Select an image"
+msgstr "Seleciona una imagen"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/AssetLoader.php:54
+msgid "Select Images - Use Ctrl + Click or Shift + Click"
+msgstr "Selecionar varias imágenes - Usar Ctrl + Click o Shift + Click"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/AssetLoader.php:55
+msgid "Add to Slide"
+msgstr "Añadir a la diapositiva"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/AssetLoader.php:56 ../views/slides.php:9
+msgid "Add Images as Slides"
+msgstr "Añadir imágenes como diapositivas"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/AssetLoader.php:57
+msgid "Error. Make sure its a valid YouTube URL."
+msgstr "Error. Asegúrate de que es una dirección de YouTube válida."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Frontend.php:59
+#, php-format
+msgid "[Slideshow \"%s\" not found]"
+msgstr "[Slideshow \"%s\" no encontrado]"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/Frontend.php:74
+#, php-format
+msgid "[Template \"%s\" not found]"
+msgstr "[Plantilla \"%s\" no encontrada]"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/NextgenIntegration.php:34
+msgid "NextGEN Integration"
+msgstr "Integración con NextGEN"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/NextgenIntegration.php:50
+msgid "Choose a NextGEN Gallery"
+msgstr "Escoge una galería NextGEN"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/NextgenIntegration.php:60
+msgid "Import"
+msgstr "Importar"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/NextgenIntegration.php:62
+msgid ""
+"Select a gallery to import images from. Images will be added as new slides."
+msgstr ""
+"Selecciona una galería para importar las imágenes. Las imagenes serán "
+"añadidas como nuevas diapositivas."
+
+# @ cycloneslider
+# @ default
+#: ../src/CycloneSlider/SettingsPage.php:74
+msgid "Default options restored."
+msgstr "Ajustes por defecto restaurados."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/WidgetSlider.php:13
+msgid "Cyclone Slider Widget"
+msgstr "Cyclone Slider Widget"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/WidgetSlider.php:14
+msgid "Widget for displaying sliders."
+msgstr "Widget para mostrar diapositivas."
+
+# @ cycloneslider
+#: ../src/CycloneSlider/WidgetSlider.php:65 ../views/slide-edit.php:49
+msgid "Title:"
+msgstr "Título:"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/WidgetSlider.php:79
+msgid "Select a Slider:"
+msgstr "Selectionar un Slider"
+
+# @ cycloneslider
+#: ../src/CycloneSlider/WidgetSlider.php:94
+msgid "No sliders found."
+msgstr "No se han encontrado Sliders."
+
+# @ cycloneslider
+#: ../templates/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Ver imagen grande"
+
+# @ cycloneslider
+#: ../templates/dark/slider.php:46 ../templates/dark/slider.php:48
+msgid "Learn More"
+msgstr "Saber más"
+
+# @ cycloneslider
+#: ../templates/dark/slider.php:64 ../templates/default/slider.php:62
+#: ../templates/default/slider.php:66 ../templates/default/slider.php:70
+#: ../templates/standard/slider.php:70 ../templates/thumbnails/slider.php:70
+msgid "Slide type not supported."
+msgstr "Tipo de diapositiva no soportado."
+
+# @ cycloneslider
+#: ../views/settings-page.php:7
+#, fuzzy
+msgid ""
+"Play with these settings if Cyclone Slider is not working or if you want to "
+"optimize it."
+msgstr ""
+"Cambia estas opciones si Cyclone Slider 2 no funciona bien o si quieres "
+"optimizarlo."
+
+# @ cycloneslider
+#: ../views/settings-page.php:17
+msgid "Load scripts in:"
+msgstr "Cargar scripts en:"
+
+# @ cycloneslider
+#: ../views/settings-page.php:20
+msgid "Header"
+msgstr "Cabecera"
+
+# @ cycloneslider
+#: ../views/settings-page.php:21
+msgid "Footer"
+msgstr "Pie de página"
+
+# @ cycloneslider
+#: ../views/settings-page.php:26
+msgid "Load these scripts:"
+msgstr "Cargar estos scripts"
+
+# @ cycloneslider
+#: ../views/settings-page.php:31
+msgid "Cycle 2. This is the core script needed by the plugin."
+msgstr "Cycle 2. Este es el script necesario para que el plugin funcione."
+
+# @ cycloneslider
+#: ../views/settings-page.php:36
+msgid "Cycle 2 - Carousel. Used by these templates: Galleria, Lea, Dos."
+msgstr "Cycle 2 - Carousel. Usado por estas plantillas: Galería, Lea, Dos."
+
+# @ cycloneslider
+#: ../views/settings-page.php:41
+msgid "Cycle 2 - Swipe. For touch swipe events."
+msgstr "Cycle 2. Swipe. Para eventos táctiles."
+
+# @ cycloneslider
+#: ../views/settings-page.php:46
+msgid "Cycle 2 - Tile. Used for tile transition effects."
+msgstr "Cycle 2. Tile. Usado para los efectos de las transiciones."
+
+# @ cycloneslider
+#: ../views/settings-page.php:51
+msgid "Cycle 2 - Video. Used by YouTube template."
+msgstr "Cycle 2 - Vídeo. Usado por la plantilla Youtube."
+
+# @ cycloneslider
+#: ../views/settings-page.php:56
+msgid "Magnific Popup - Enable lightbox option."
+msgstr "Magnific Popup. Activa la opción lightbox."
+
+# @ cycloneslider
+#: ../views/settings-page.php:56 ../views/settings-page.php:61
+#: ../views/slider-advanced-settings.php:2
+msgid "Available in pro version."
+msgstr "Disponible en la versión pro."
+
+# @ cycloneslider
+#: ../views/settings-page.php:61
+msgid "Easing - Enable easing options."
+msgstr "Easing. Activa las opciones de fundido."
+
+# @ cycloneslider
+#: ../views/settings-page.php:66
+msgid "Scripts loading priority:"
+msgstr "Prioridad de carga de scripts:"
+
+# @ cycloneslider
+#: ../views/settings-page.php:69
+msgid "Make this value bigger to load scripts last."
+msgstr "Introduce un valor más grande para cargar los scripts los últimos."
+
+# @ cycloneslider
+#: ../views/settings-page.php:73
+msgid "Load these templates:"
+msgstr "Usar estas plantillas:"
+
+# @ cycloneslider
+#: ../views/settings-page.php:86
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+# @ cycloneslider
+#: ../views/settings-page.php:87
+msgid "Restore Defaults"
+msgstr "Restaurar por defecto"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:17
+msgid "Delete"
+msgstr "Eliminar"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:26
+msgid "Image"
+msgstr "Imagen"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:27
+msgid "YouTube"
+msgstr "YouTube. "
+
+# @ cycloneslider
+#: ../views/slide-edit.php:28
+msgid "Vimeo"
+msgstr "Vimeo"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:29 ../views/slide-edit.php:173
+msgid "Custom HTML"
+msgstr "HTML personalizado"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:30
+msgid "Testimonial"
+msgstr "Recomendación"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:42
+msgid "Get Image"
+msgstr "Elegir imagen"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:46
+msgid "Caption"
+msgstr "Leyenda"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:53
+msgid "Description:"
+msgstr "Decripción:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:59 ../views/slide-edit.php:196
+msgid "Link"
+msgstr "Enlace"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:62 ../views/slide-edit.php:199
+msgid "Link URL:"
+msgstr "URL del enlace"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:66 ../views/slide-edit.php:203
+msgid "Open Link in:"
+msgstr "Abrir enlace en:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:68 ../views/slide-edit.php:205
+msgid "Same Window"
+msgstr "Misma ventana"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:69 ../views/slide-edit.php:206
+msgid "New Tab or Window"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:75
+msgid "Image Attributes"
+msgstr "Atributos de imagen"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:78
+msgid "Alternate Text:"
+msgstr "Texto alternativo:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:82
+msgid "Title Text:"
+msgstr "Texto del título:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:88
+msgid "Slide Transition Effects"
+msgstr "Efectos de transición de diapositivas"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:92
+msgid "Disable"
+msgstr "Desactivar"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:93
+msgid "Enable Slide Effects"
+msgstr "Activar efectos de diapositiva"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:99
+msgid "Transition Effects:"
+msgstr "Efectos de transición:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:110 ../views/slider-properties.php:32
+msgid "Transition Effects Speed:"
+msgstr "Velocidad del efecto de transición:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:112 ../views/slide-edit.php:119
+#: ../views/slider-properties.php:34
+msgid "Milliseconds"
+msgstr "Milisegundos"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:117 ../views/slider-properties.php:26
+msgid "Next Slide Delay:"
+msgstr "Retraso siguiente diapositiva:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:127 ../views/slider-properties.php:13
+msgid "Tile Count:"
+msgstr "Número de diapositivas:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:129 ../views/slider-properties.php:15
+msgid "The number of tiles to use in the transition."
+msgstr "Número de diapositivas para usar esta  transición."
+
+# @ cycloneslider
+#: ../views/slide-edit.php:133
+msgid "Tile Delay:"
+msgstr "Retraso:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:135
+msgid "Milliseconds to delay each individual tile transition."
+msgstr "Milisegundos para retrasar cada transición individual."
+
+# @ cycloneslider
+#: ../views/slide-edit.php:139 ../views/slider-properties.php:18
+msgid "Tile Position:"
+msgstr "Posición de la capa:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:141 ../views/slider-properties.php:20
+msgid "Vertical"
+msgstr "Vertical"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:142 ../views/slider-properties.php:21
+msgid "Horizontal"
+msgstr "Horizontal"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:154
+msgid "YouTube URL:"
+msgstr "URL Youtube:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:156
+msgid "Copy and paste a valid YouTube URL here."
+msgstr "Copia y pega un enlace válido de Youtube aquí."
+
+# @ cycloneslider
+#: ../views/slide-edit.php:161
+msgid "Do not show suggested videos when the video finishes."
+msgstr ""
+"No sugerir otros videos relacionados cuando el vídeo seleccionado termine."
+
+# @ cycloneslider
+#: ../views/slide-edit.php:166
+msgid "Vimeo URL:"
+msgstr "URL Vimeo:"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:168
+msgid "Copy and paste a valid Vimeo URL here."
+msgstr "Copia y pega un enlace válido a Vimeo aquí."
+
+# @ cycloneslider
+#: ../views/slide-edit.php:181
+msgid "Quote"
+msgstr "Cita"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:187
+msgid "Author"
+msgstr "Autor"
+
+# @ cycloneslider
+#: ../views/slide-edit.php:190
+#, fuzzy
+msgid "Name:"
+msgstr "Nombre:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:4
+msgid "Allow Wrap?"
+msgstr "Permitir volver al inicio?"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:6
+#: ../views/slider-advanced-settings.php:44 ../views/slider-properties.php:66
+#: ../views/slider-properties.php:74 ../views/slider-properties.php:82
+#: ../views/slider-properties.php:92 ../views/slider-properties.php:101
+msgid "Yes"
+msgstr "Si"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:7
+#: ../views/slider-advanced-settings.php:45 ../views/slider-properties.php:67
+#: ../views/slider-properties.php:75 ../views/slider-properties.php:83
+#: ../views/slider-properties.php:91 ../views/slider-properties.php:100
+msgid "No"
+msgstr "No"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:10
+msgid ""
+"Determines if slider wraps to beginning slide if it reaches the end slide."
+msgstr ""
+"Determina si el slider vuelve al principio tras mostrar la última "
+"diapositiva."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:15
+msgid "Dynamic Height:"
+msgstr "Altura dinámica:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:17
+msgid "Off"
+msgstr "Apagado"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:18
+msgid "On"
+msgstr "Encendido"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:21
+msgid "Adjust slider height depending on current slide."
+msgstr "Ajustar el alto del slider dependiendo de la diapositiva actual."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:26
+msgid "Delay:"
+msgstr "Retardo:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:28
+msgid ""
+"Milliseconds to add or substract from the time before the first transition "
+"occurs."
+msgstr "Milisegundos a añadir o quitar del tiempo de transición general."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:32
+msgid "Easing:"
+msgstr "Easing:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:38
+msgid "Easing for transition animations."
+msgstr "Transición Easing (moderada) para las animaciones"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:42
+msgid "Swipe:"
+msgstr "Swipe:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:48
+msgid "Enable swipe gesture support for touch devices."
+msgstr "Activar gestos swipe para dispositivos touch."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:53
+msgid "Resize Options:"
+msgstr "Opciones de redimensión:"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:61
+msgid "Force Resize"
+msgstr "Forzar redimensión"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:63
+msgid "Auto - Cyclone Slider decides the resize option."
+msgstr "Auto - Cyclone Slider decide el redimensionado"
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:64
+msgid "Crop - Resize and remove excess parts."
+msgstr "Recortar. Redimensionar y eliminar los excesos."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:65
+msgid "Exact - Resize to exact dimensions."
+msgstr "Exacto. Redimensionar al tamaño exacto."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:66
+msgid "Landscape - Resize to exact width."
+msgstr "Panorámico. Redimensionar al ancho exacto."
+
+# @ cycloneslider
+#: ../views/slider-advanced-settings.php:67
+msgid "Portrait - Resize to exact height."
+msgstr "Retrato. Redimensionar al alto exacto."
+
+# @ cycloneslider
+#: ../views/slider-codes.php:4
+msgid "Your Shortcode:"
+msgstr "Shortcode:"
+
+# @ cycloneslider
+#: ../views/slider-codes.php:6
+msgid ""
+"Copy and paste this shortcode into your Post, Page or Custom Post editor."
+msgstr ""
+"Copia y pega este shortcode en tu Entrada, Página o Editor de Entrada "
+"Personalizado."
+
+# @ cycloneslider
+#: ../views/slider-codes.php:10
+msgid "Your PHP Code:"
+msgstr "Código PHP:"
+
+# @ Cyclone Slider 2
+# @
+# @ Traducido al español por Digital03
+# @ http://digital03.net
+#: ../views/slider-codes.php:12
+msgid ""
+"Copy and paste this code when you need to display the slider in template "
+"files (header.php, front-page.php, etc.)."
+msgstr ""
+"Copia y pega este shortcode cuando necesites mostrar este slider en un "
+"archivo de plantilla (header.php, front-page.php, etc)."
+
+# @ cycloneslider
+#: ../views/slider-id.php:5
+msgid "Change the Slideshow ID here."
+msgstr "Cambia el ID del Slideshow aquí."
+
+# @ cycloneslider
+#: ../views/slider-preview.php:9
+msgid "Your preview will appear here."
+msgstr "Tu nombre de usuario aparecerá aquí."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:4
+msgid "Transition Effects to Use:"
+msgstr "Efecto de transición a usar:"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:28
+msgid "Milliseconds. 0 to disable auto advance."
+msgstr "Milisegundos. 0 para desactivar el avance automático."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:38
+msgid "Width:"
+msgstr "Ancho:"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:40 ../views/slider-properties.php:46
+msgid "pixels."
+msgstr "píxeles."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:44
+msgid "Height:"
+msgstr "Alto:"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:50
+msgid "Width Management:"
+msgstr "Gestión del ancho:"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:52
+msgid "Responsive"
+msgstr "Adaptable"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:53
+msgid "Full"
+msgstr "Completo"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:54
+msgid "Fixed"
+msgstr "Fijo"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:57
+msgid ""
+"Responsive - resizes to smaller size but maximum width will be equal to the "
+"provided width."
+msgstr ""
+"Adaptable. Redimensiona al tamaño más pequeño pero el ancho máximo será "
+"igual que el indicado."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:58
+msgid ""
+"Full - the same as responsive but maximum width will be equal to its "
+"container ignoring the provided width."
+msgstr ""
+"Completo - lo mismo que adaptable, pero la ancura máxima será igual al "
+"contenedor ignorando la anchura máxima indicada del slider."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:59
+msgid "Fixed - width and height are not resized."
+msgstr "Fijo. Ancho y alto no serán modificados."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:64
+msgid "Pause on Hover?"
+msgstr "Parar con el ratón encima?"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:72
+msgid "Show Prev/Next Buttons?"
+msgstr "Mostrar botones Anterior/Siguiente?"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:80
+msgid "Show Navigation?"
+msgstr "Mostrar navegación?"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:85
+msgid "The thumbnails or dots depending on template."
+msgstr "Miniaturas o puntos dependiendo de la plantilla."
+
+# @ cycloneslider
+#: ../views/slider-properties.php:89
+msgid "Resize Images?"
+msgstr "Redimensionar imagenes?"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:94
+msgid ""
+"Yes - resize images to slideshow dimension. <br>No - use the original "
+"uploaded image."
+msgstr ""
+"Si - redimensiona las imagenes al tamaño del slider<br>No - usa el tamaño "
+"original de la imagen subida"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:98
+msgid "Random Slide Order?"
+msgstr "Orden de diapositivas aleatorio?"
+
+# @ cycloneslider
+#: ../views/slider-properties.php:103
+msgid "Randomize order of slides on every page visit."
+msgstr "Cambia aleatoriamente el orden de las diapositivas en cada visita"
+
+# @ cycloneslider
+#: ../views/slides.php:8
+msgid "Add Slide"
+msgstr "Añadir diapositiva"
+
+# @ cycloneslider
+#: ../views/template-selection.php:4
+msgid "Name"
+msgstr "Nombre"
+
+# @ cycloneslider
+#: ../views/template-selection.php:5
+msgid "Supported Slides"
+msgstr "Diapositivas soportadas"
+
+# @ cycloneslider
+#: ../views/template-selection.php:6
+msgid "Location"
+msgstr "Localización"
+
+# @ cycloneslider
+#: ../views/template-selection.php:7
+msgid "Selected"
+msgstr "Seleccionado"
